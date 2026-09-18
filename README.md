@@ -3,7 +3,7 @@
 ## 💻​ Sobre mim:
 <div>
   <p>
-Meu nome é [seu nome] e estou dando os primeiros passos como desenvolvedor.
+Meu nome é Victor e estou dando os primeiros passos como desenvolvedor.
     Gosto de entender como as coisas funcionam por trás da tela, e é isso que me trouxe para a programação.
     Hoje trabalho com Java, Python, JavaScript, HTML e CSS, e estou aprendendo a usar Git no dia a dia.
     Busco uma oportunidade onde eu possa aprender com quem tem mais experiência, colocar a mão no código de verdade e crescer junto com o time.
